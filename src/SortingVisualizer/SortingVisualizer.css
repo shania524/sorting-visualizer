@@ -1,0 +1,17 @@
+
+.array-container{
+    position:absolute;
+    top:20px;
+  left:150px;
+}
+.array-bar{
+    width: 3px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 5px;
+
+}
+.buttonn{
+  display: inline-block
+   ;
+}
